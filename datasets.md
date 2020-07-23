@@ -5,12 +5,21 @@ PageTitle: Phenology data sources
 # Flux Tower Data
 
 ## Metereological
+- Temperature
+- Humidity
+- Radiation
+- Potential evapotranspiration
 
+# Soil
+- Soil water content
+- Soil temperature
 
 
 ## Productivity
 - GPP
-- NPP
+- Net ecosystem exchange
+- Ecosystem respiration
+- 
 
 # Satellite
 See MODIS-MAIAC and Sentinel-2 Airbus cloud
