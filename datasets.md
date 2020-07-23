@@ -6,20 +6,33 @@ PageTitle: Phenology data sources
 
 ## Metereological
 - Temperature
+- Rainfall
 - Humidity
+- Wind speed and direction
 - Radiation
+    - Global incident and reflected
+    - IR incident and reflected
+    - PAR incident and reflected
+    - Net radiation
 - Potential evapotranspiration
+- Vapour pressure deficit
+- Latent heat
+- Sensible heat
 
-# Soil
-- Soil water content
+## Soil
+- Soil water content (multiple depths)
 - Soil temperature
+- Soil respiration?
 
 
 ## Productivity
 - GPP
 - Net ecosystem exchange
 - Ecosystem respiration
-- 
+- CO2 flux
+
+# PhenoCam
+Waiting for access
 
 # Satellite
 See MODIS-MAIAC and Sentinel-2 Airbus cloud
