@@ -1,5 +1,7 @@
 ---
 PageTitle: Phenology data sources
+Author: James Ball
+Date: 23/07/2020
 ---
 
 # Flux Tower Data
@@ -55,12 +57,16 @@ MODIS-MAIAC (Multi-Angle Implementation of Atmospheric Correction), developed by
 ## ESA
 ### Sentinel-2
 - 2015-present
-### Spot
+### SPOT
+1998 - 2014
 
 ### MERIS
 2002-2012
 
-# Processed
+## Issues / correction
+
+
+# Processed satellite
 ## MODIS NDVI and EVI
 - 16-day composites
 - 250m, 500m, 1km
